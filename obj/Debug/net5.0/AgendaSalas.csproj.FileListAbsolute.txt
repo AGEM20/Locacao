@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.exe
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.deps.json
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.runtimeconfig.json
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.runtimeconfig.dev.json
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.dll
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.pdb
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.csproj.AssemblyReference.cache
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.AssemblyInfoInputs.cache
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.AssemblyInfo.cs
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.csproj.CoreCompileInputs.cache
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.dll
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\refint\AgendaSalas.dll
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.pdb
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.genruntimeconfig.cache
+C:\Users\a.a.rodrigues.lopes\Source\Repos\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\ref\AgendaSalas.dll
+=======
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.exe
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.deps.json
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.runtimeconfig.json
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.runtimeconfig.dev.json
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.dll
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net5.0\AgendaSalas.pdb
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.csproj.AssemblyReference.cache
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.AssemblyInfoInputs.cache
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.AssemblyInfo.cs
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.dll
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\refint\AgendaSalas.dll
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.pdb
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\AgendaSalas.genruntimeconfig.cache
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net5.0\ref\AgendaSalas.dll
+>>>>>>> 01cad7225849da4a797c53e8de13c57313a05c01

@@ -1,0 +1,15 @@
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net6.0\AgendaSalas.exe
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net6.0\AgendaSalas.deps.json
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net6.0\AgendaSalas.runtimeconfig.json
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net6.0\AgendaSalas.dll
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\bin\Debug\net6.0\AgendaSalas.pdb
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\AgendaSalas.csproj.AssemblyReference.cache
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\AgendaSalas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\AgendaSalas.AssemblyInfoInputs.cache
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\AgendaSalas.AssemblyInfo.cs
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\AgendaSalas.csproj.CoreCompileInputs.cache
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\AgendaSalas.dll
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\refint\AgendaSalas.dll
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\AgendaSalas.pdb
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\AgendaSalas.genruntimeconfig.cache
+C:\Users\juanm\Source\Repos\juanmmartins\CESAR-Locacao\AgendaSalas\obj\Debug\net6.0\ref\AgendaSalas.dll
